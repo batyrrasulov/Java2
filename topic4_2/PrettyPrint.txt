@@ -1,0 +1,28 @@
+{
+   "year":2022,
+   "make":"Toyota",
+   "model":"Camry",
+   "odometer":0,
+   "engineLiters":2.5
+} 
+{
+   "year":2021,
+   "make":"Honda",
+   "model":"Civic",
+   "odometer":10000,
+   "engineLiters":1.5
+}
+{
+   "year":2020,
+   "make":"Ford",
+   "model":"Mustang",
+   "odometer":20000,
+   "engineLiters":5.0
+} 
+{
+   "year":2018,
+   "make":"Chevy",
+   "model":"Blazer",
+   "odometer":1000,
+   "engineLiters":1.5
+}

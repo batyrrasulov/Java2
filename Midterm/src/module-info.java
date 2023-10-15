@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author batyrrasulov
+ *
+ */
+module Midterm {
+}
