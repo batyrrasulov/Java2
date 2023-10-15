@@ -1,0 +1,5 @@
+Batyr|Rasulov|18
+Mohammed|Rasulov|40
+Aysoltan|Rasulova|37
+Gulzada|Rasulova|10
+Miriam|Rasulova|15
